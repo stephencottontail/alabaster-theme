@@ -19,8 +19,7 @@
 
 ** Features:
   - Alabaster deliberately highlights only things the parser could reliably identify. If highlighting is unreliable, your brain must take precious extra seconds to double-check what it sees.
-  - Along those same lines, Alabaster deliberately avoids the "fireworks" effect of some other themes by only highlighting four classes: strings, statically-known constants, comments, and global
-definitions.
+  - Along those same lines, Alabaster deliberately avoids the "fireworks" effect of some other themes by only highlighting four classes: strings, statically-known constants, comments, and global definitions.
   - Unlike most themes, Alabaster highlights comments; if the code was complex enough to require an explanation, then that explanation should be prominently displayed.
 
 * Install
