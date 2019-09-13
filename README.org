@@ -15,18 +15,13 @@
 - [[#install][Install]]
 
 * Description
-  This layer adds support for the Alabaster theme, inspired by [https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster]
-[Nikita Prokopov's VSCode theme of the same name]] and [https://github.com/jameslintaylor/alabaster-theme][James
-Lin Taylor's Emacs port.]]
+  This layer adds support for the Alabaster theme, inspired by [[https://marketplace.visualstudio.com/items?itemName=tonksy.theme-alabaster][Nikita Prokopov's VSCode theme of the same name]] and [[https://github.com/jameslintaylor/alabaster-theme][James Lin Taylor's Emacs port.]]
 
 ** Features:
-  - Alabaster deliberately highlights only things the parser could reliably identify. If highlighting
-is unreliable, your brain must take precious extra seconds to double-check what it sees.
-  - Along those same lines, Alabaster deliberately avoids the "fireworks" effect of some other
-themes by only highlighting four classes: strings, statically-known constants, comments, and global
+  - Alabaster deliberately highlights only things the parser could reliably identify. If highlighting is unreliable, your brain must take precious extra seconds to double-check what it sees.
+  - Along those same lines, Alabaster deliberately avoids the "fireworks" effect of some other themes by only highlighting four classes: strings, statically-known constants, comments, and global
 definitions.
-  - Unlike most themes, Alabaster highlights comments; if the code was complex enough to require
-an explanation, then that explanation should be prominently displayed.
+  - Unlike most themes, Alabaster highlights comments; if the code was complex enough to require an explanation, then that explanation should be prominently displayed.
 
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
